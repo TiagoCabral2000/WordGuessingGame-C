@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\JogoUI\main.c(26,5): warning C4013: '_setmode' undefined; assuming extern returning int
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\JogoUI\main.c(298,22): warning C4002: too many arguments for function-like macro invocation 'TEXT'
+  JogoUI.vcxproj -> C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\x64\Debug\JogoUI.exe

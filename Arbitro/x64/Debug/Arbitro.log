@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\Arbitro\main.c(69,5): warning C4013: '_setmode' undefined; assuming extern returning int
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\Arbitro\main.c(52,12): warning C4101: 'hSHM': unreferenced local variable
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\Arbitro\main.c(264,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\Arbitro\main.c(701,53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Arbitro.vcxproj -> C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\x64\Debug\Arbitro.exe

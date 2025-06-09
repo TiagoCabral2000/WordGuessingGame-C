@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\painel\main.c(232,22): warning C4002: too many arguments for function-like macro invocation 'TEXT'
+  painel.vcxproj -> C:\Users\tiago\OneDrive\Ambiente de Trabalho\so2-2425-tp-TiagoCabral-2018020685\x64\Debug\painel.exe
